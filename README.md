@@ -89,7 +89,7 @@ The interface is divided into three clear steps.
 - **🔄 Retry:** Retry failed generations (single items or all).  
 - **🔍 Viewer:** Click thumbnails to view full-size images.  
 - **📂 Management:** Open the output folder or delete failed images directly.  
-- **☕ Donate:** Support the developer via **[Buy Me a Coffee](https://duckmartians.info)**.
+- **☕ Donate:** Support the developer via **[☕ Buy Me a Coffee](https://duckmartians.info)**.
 
 ---
 
