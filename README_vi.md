@@ -1,4 +1,4 @@
-# 🎨 Auto Whisk Generator  
+# 🎨 Auto Whisk Generator  [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
 **Tool Tự Động Hóa Whisk AI**
 
 Auto Whisk Generator là công cụ hỗ trợ tự động hóa toàn bộ quy trình tạo ảnh trên Whisk AI (Google Labs).  
