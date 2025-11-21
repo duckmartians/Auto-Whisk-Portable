@@ -1,4 +1,4 @@
-# 🎨 Auto Whisk Generator  
+# 🎨 Auto Whisk Generator  [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
 **Whisk AI Automation Tool**
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
