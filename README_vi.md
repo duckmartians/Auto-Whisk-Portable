@@ -90,7 +90,7 @@ Giao diện gồm 3 bước chính:
 - **🔄 Retry:** Thử lại các ảnh bị lỗi (riêng lẻ hoặc tất cả).  
 - **🔍 Viewer:** Nhấn vào thumbnail để xem ảnh lớn.  
 - **📂 Quản lý:** Mở thư mục chứa ảnh hoặc xóa ảnh lỗi.  
-- **☕ Donate:** Hỗ trợ tác giả qua nút **[Buy Me a Coffee](https://duckmartians.info)**.
+- **☕ Donate:** Hỗ trợ tác giả qua nút **[☕ Mời tôi ly cà phê](https://duckmartians.info)**.
 
 ---
 
