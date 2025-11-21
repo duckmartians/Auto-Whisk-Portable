@@ -3,6 +3,7 @@
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
 Instead of manually entering prompts one by one, the tool allows continuous, hands-free generation of thousands of images.
+<img width="1402" height="936" alt="image" src="https://github.com/user-attachments/assets/4abff3dc-7148-4ca9-be2e-2e5064543568" />
 
 ---
 
