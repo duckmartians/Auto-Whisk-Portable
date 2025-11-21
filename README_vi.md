@@ -3,6 +3,7 @@
 
 Auto Whisk Generator là công cụ hỗ trợ tự động hóa toàn bộ quy trình tạo ảnh trên Whisk AI (Google Labs).  
 Thay vì phải thao tác thủ công từng prompt, công cụ cho phép bạn chạy liên tục và tạo ra hàng ngàn hình ảnh tự động.
+<img width="1402" height="936" alt="image" src="https://github.com/user-attachments/assets/be90419c-8857-4075-aaad-0fd398f9a115" />
 
 ---
 
