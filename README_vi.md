@@ -66,11 +66,10 @@ Giao diện gồm 3 bước chính:
 
 ### 🅰️ Bước A: Lấy Dữ liệu (Token)
 
-1. Trong mục **Lấy Dữ liệu (Token/Workflow ID)**:  
-   - Dán Cookie JSON đã sao chép vào ô nhập liệu.  
-2. Bật **Chạy ẩn (Headless)**.  
-3. Nhấn **🚀 LẤY DỮ LIỆU MỚI**.  
-4. Chờ 10–30 giây để tool xử lý.  
+1. Trong mục **Lấy Dữ liệu (Token/Project)**:  
+   - Dán Cookie JSON đã sao chép vào ô nhập liệu.   
+2. Nhấn **🚀 LẤY DỮ LIỆU MỚI**.  
+3. Chờ 10–30 giây để tool xử lý.  
 
 **Thành công:** Hiện trạng thái xanh **“Lấy token thành công!”** kèm thời gian hết hạn token.
 
