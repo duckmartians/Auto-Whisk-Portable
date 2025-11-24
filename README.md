@@ -37,9 +37,9 @@ This JSON Cookie will be used for token extraction.
 
 The tool is packaged as a `.exe` file. No Python installation required.
 
-1. Download the compressed package.  
+1. Download the compressed package **Auto.Whisk.Generator.v24.11.2025.zip**.  
 2. Extract it.  
-3. Run **AutoWhiskGenerator.exe**.
+3. Run **Auto Whisk Generator v24.11.2025.exe**.
 
 ---
 
