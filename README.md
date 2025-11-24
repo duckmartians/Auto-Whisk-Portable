@@ -1,5 +1,5 @@
 # 🎨 Auto Whisk Generator  [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
-**Whisk AI Automation Tool**
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Generator/releases/latest) [![Download Here](https://img.shields.io/badge/⬇_Download-Here-success?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Generator/releases/latest)
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
 Instead of manually entering prompts one by one, the tool allows continuous, hands-free generation of thousands of images.
