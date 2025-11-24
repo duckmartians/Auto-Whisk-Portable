@@ -66,11 +66,10 @@ The interface is divided into three clear steps.
 
 ### 🅰️ Step A: Retrieve Data (Token)
 
-1. In **Retrieve Data (Token/Workflow ID)**:  
+1. In **Retrieve Data (Token/Project)**:  
    - Paste the JSON Cookie into the input box.  
-2. Enable **Headless Mode**.  
-3. Click **🚀 GET NEW DATA**.  
-4. Wait 10–30 seconds while the tool processes.
+2. Click **🚀 GET NEW DATA**.  
+3. Wait 10–30 seconds while the tool processes.
 
 **Success:** A green message appears: **“Token retrieved successfully!”** along with its expiration time.
 
