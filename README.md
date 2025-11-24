@@ -3,7 +3,7 @@
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
 Instead of manually entering prompts one by one, the tool allows continuous, hands-free generation of thousands of images.
-<img width="2166" height="1032" alt="image" src="https://github.com/user-attachments/assets/37134dfa-3c73-4d5c-afc7-13ee0b0f500c" />
+<img width="2166" height="1032" alt="image" src="https://github.com/user-attachments/assets/c2560244-813a-4717-8543-e6eb417d5589" />
 
 ---
 
@@ -40,6 +40,21 @@ The tool is packaged as a `.exe` file. No Python installation required.
 1. Download the compressed package **Auto.Whisk.Generator.v24.11.2025.zip**.  
 2. Extract it.  
 3. Run **Auto Whisk Generator v24.11.2025.exe**.
+
+## ⚠️ IMPORTANT NOTE: IF BLOCKED BY WINDOWS DEFENDER
+
+If you open the tool and Windows reports a virus error (usually Trojan:Win32/Wacatac...), please don't worry. This is a FALSE ALARM (False Positive).
+
+Why is there an error?
+The tool is packaged with the free tool PyInstaller. Because I am an individual programmer, I do not buy a "Digital Signature" (an expensive license that big companies use to prove that software is safe) for the tool, so Windows Defender will block it by default because it "sees a stranger", cannot identify the identity.
+
+Safety commitment:
+1. Open source tool, only performs automatic operations on the browser, absolutely does not contain malicious code.
+
+2. Specialized anti-virus software (such as Kaspersky, ESET...) all confirm that this file is CLEAN.
+
+How to fix:
+To use, please add the tool file to the exclusions list or temporarily turn off Windows Defender Real-time protection.
 
 ---
 
