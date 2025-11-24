@@ -38,9 +38,9 @@ Cookie JSON sẽ được dùng trong bước tiếp theo.
 
 Công cụ đã được đóng gói thành file `.exe`; không cần cài Python.
 
-1. Tải file nén.  
+1. Tải file nén **Auto.Whisk.Generator.v24.11.2025.zip**.  
 2. Giải nén.  
-3. Mở **AutoWhiskGenerator.exe**.
+3. Mở **Auto Whisk Generator v24.11.2025.exe**.
 
 ---
 
