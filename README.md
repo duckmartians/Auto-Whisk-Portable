@@ -13,6 +13,7 @@ To operate, the tool requires your Whisk session Cookie. Install the extension t
 
 **Download Extension:**  
 [Cookie Exporter – Chrome Web Store](https://chromewebstore.google.com/detail/fhnmmidekmgocpjdceeffppcodigillk)
+<img width="1130" height="215" alt="image" src="https://github.com/user-attachments/assets/e20c7343-b16f-4dff-a2ef-33f1f2d624e9" />
 
 **Steps:**
 1. Open the link in Chrome or Edge.  
@@ -28,6 +29,7 @@ To operate, the tool requires your Whisk session Cookie. Install the extension t
 3. Click the **Cookie Exporter** icon.  
 4. In *Export format*, select **JSON**.  
 5. Click **Copy** to copy the Cookie string.
+<img width="1919" height="502" alt="image" src="https://github.com/user-attachments/assets/865798c4-092f-47b9-b5f3-70823cf3ecbe" />
 
 This JSON Cookie will be used for token extraction.
 
@@ -70,6 +72,7 @@ The interface is divided into three clear steps.
    - Paste the JSON Cookie into the input box.  
 2. Click **🚀 GET NEW DATA**.  
 3. Wait 10–30 seconds while the tool processes.
+<img width="392" height="250" alt="image" src="https://github.com/user-attachments/assets/79088390-0cde-43be-bfd7-b40040ecd65b" />
 
 **Success:** A green message appears: **“Token retrieved successfully!”** along with its expiration time.
 
@@ -80,13 +83,21 @@ The interface is divided into three clear steps.
 **Aspect Ratio & Quantity:**  
 - Choose 16:9, 9:16, or 1:1.  
 - Select the number of images per prompt (1–4).
+<img width="379" height="106" alt="image" src="https://github.com/user-attachments/assets/ce9e88c3-e9f6-46d6-8481-9527116181b1" />
+
+**Reference photos:**
+- Select subject, background, style.
+- Can use 3 subject photos, 1 background photo, 1 style photo at the same time.
+<img width="866" height="463" alt="image" src="https://github.com/user-attachments/assets/3e5bce2a-e484-4da2-b487-4474f192f7f5" />
 
 **Prompt List:**  
 - Enter prompts line by line (one prompt per line).
+<img width="381" height="145" alt="image" src="https://github.com/user-attachments/assets/9d49cf07-edb1-4740-9ecb-73c3c798d33e" />
 
 **Save Directory:**  
 - Default: `output` folder next to the `.exe`.  
 - Change via 📂 if desired.
+<img width="389" height="83" alt="image" src="https://github.com/user-attachments/assets/f9d8350a-8c5d-4f22-8434-ca9d738c0cc7" />
 
 ---
 
@@ -95,6 +106,7 @@ The interface is divided into three clear steps.
 1. Click **START NEW**.  
 2. The tool will automatically send prompts, wait for generation, and download each image.  
 3. Progress and previews are displayed live.
+<img width="393" height="69" alt="image" src="https://github.com/user-attachments/assets/1bc409f4-b9dc-4894-b299-fce0e9dd9615" />
 
 ---
 
