@@ -3,7 +3,6 @@
 
 Auto Whisk Generator là công cụ hỗ trợ tự động hóa toàn bộ quy trình tạo ảnh trên Whisk AI (Google Labs).  
 Thay vì phải thao tác thủ công từng prompt, công cụ cho phép bạn chạy liên tục và tạo ra hàng ngàn hình ảnh tự động.
-<img width="2166" height="1032" alt="image" src="https://github.com/user-attachments/assets/e8532ac4-40ba-4e6b-8fe5-52d823b3e009" />
 
 ---
 
@@ -68,13 +67,12 @@ Giao diện gồm 3 bước chính:
 
 ### 🅰️ Bước A: Lấy Dữ liệu (Token)
 
-1. Trong mục **Lấy Dữ liệu (Token/Project)**:  
+1. Trong mục **Cấu hình Tài Khoản**:  
    - Dán Cookie JSON đã sao chép vào ô nhập liệu.   
-2. Nhấn **🚀 LẤY DỮ LIỆU MỚI**.  
-3. Chờ 10–30 giây để tool xử lý.  
+2. Nhấn **Kiểm tra & Lưu**.  
+<img width="395" height="328" alt="image" src="https://github.com/user-attachments/assets/3108028a-0bb2-4f46-8063-14873be8da77" />
 
 **Thành công:** Hiện trạng thái xanh **“Lấy token thành công!”** kèm thời gian hết hạn token.
-<img width="391" height="244" alt="image" src="https://github.com/user-attachments/assets/d526b2fb-b8f3-4ac3-84ec-f337f4c0e999" />
 
 ---
 
@@ -88,7 +86,7 @@ Giao diện gồm 3 bước chính:
 **Ảnh tham chiếu:**  
 - Chọn chủ thể, bối cảnh, phong cách.
 - Có thể dùng cùng lúc 3 ảnh chủ thể, 1 ảnh bối cảnh, 1 ảnh phong cách.
-<img width="838" height="428" alt="image" src="https://github.com/user-attachments/assets/48d3f1d1-befd-40fe-9101-8f0c28db105c" />
+<img width="954" height="524" alt="image" src="https://github.com/user-attachments/assets/c1c3564a-10c2-4205-b7c2-24474cfcfa96" />
 
 **Danh sách prompts:**  
 - Nhập mỗi prompt trên một dòng.
