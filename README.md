@@ -3,7 +3,6 @@
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
 Instead of manually entering prompts one by one, the tool allows continuous, hands-free generation of thousands of images.
-<img width="2166" height="1032" alt="image" src="https://github.com/user-attachments/assets/c2560244-813a-4717-8543-e6eb417d5589" />
 
 ---
 
@@ -70,9 +69,8 @@ The interface is divided into three clear steps.
 
 1. In **Retrieve Data (Token/Project)**:  
    - Paste the JSON Cookie into the input box.  
-2. Click **🚀 GET NEW DATA**.  
-3. Wait 10–30 seconds while the tool processes.
-<img width="392" height="250" alt="image" src="https://github.com/user-attachments/assets/79088390-0cde-43be-bfd7-b40040ecd65b" />
+2. Click **Check & Save**.  
+<img width="392" height="321" alt="image" src="https://github.com/user-attachments/assets/c11cab60-5750-4cc5-ad52-d60c8732887a" />
 
 **Success:** A green message appears: **“Token retrieved successfully!”** along with its expiration time.
 
@@ -88,7 +86,7 @@ The interface is divided into three clear steps.
 **Reference photos:**
 - Select subject, background, style.
 - Can use 3 subject photos, 1 background photo, 1 style photo at the same time.
-<img width="866" height="463" alt="image" src="https://github.com/user-attachments/assets/3e5bce2a-e484-4da2-b487-4474f192f7f5" />
+<img width="927" height="560" alt="image" src="https://github.com/user-attachments/assets/5381ced1-a4ef-4927-9715-547b2d2c568a" />
 
 **Prompt List:**  
 - Enter prompts line by line (one prompt per line).
