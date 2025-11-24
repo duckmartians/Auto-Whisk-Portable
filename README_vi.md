@@ -14,6 +14,7 @@ Cài đặt extension hỗ trợ xuất Cookie:
 
 **Tải Extension:**  
 [Cookie Exporter – Chrome Web Store](https://chromewebstore.google.com/detail/fhnmmidekmgocpjdceeffppcodigillk)
+<img width="1130" height="215" alt="image" src="https://github.com/user-attachments/assets/e20c7343-b16f-4dff-a2ef-33f1f2d624e9" />
 
 **Cách cài:**
 1. Truy cập liên kết bằng Chrome hoặc Edge.  
@@ -29,6 +30,7 @@ Cài đặt extension hỗ trợ xuất Cookie:
 3. Nhấn biểu tượng **Cookie Exporter** trên thanh trình duyệt.  
 4. Ở phần *Export format*, chọn **JSON**.  
 5. Nhấn **Copy** để sao chép Cookie vào clipboard.
+<img width="1919" height="502" alt="image" src="https://github.com/user-attachments/assets/865798c4-092f-47b9-b5f3-70823cf3ecbe" />
 
 Cookie JSON sẽ được dùng trong bước tiếp theo.
 
@@ -72,6 +74,7 @@ Giao diện gồm 3 bước chính:
 3. Chờ 10–30 giây để tool xử lý.  
 
 **Thành công:** Hiện trạng thái xanh **“Lấy token thành công!”** kèm thời gian hết hạn token.
+<img width="391" height="244" alt="image" src="https://github.com/user-attachments/assets/d526b2fb-b8f3-4ac3-84ec-f337f4c0e999" />
 
 ---
 
@@ -80,13 +83,21 @@ Giao diện gồm 3 bước chính:
 **Tỉ lệ & số lượng ảnh:**  
 - Chọn 16:9, 9:16, hoặc 1:1.  
 - Chọn số lượng ảnh mỗi prompt (1–4).
+<img width="391" height="154" alt="image" src="https://github.com/user-attachments/assets/ad4d7632-d262-4f77-b32d-139b424a4b35" />
+
+**Ảnh tham chiếu:**  
+- Chọn chủ thể, bối cảnh, phong cách.
+- Có thể dùng cùng lúc 3 ảnh chủ thể, 1 ảnh bối cảnh, 1 ảnh phong cách.
+<img width="838" height="428" alt="image" src="https://github.com/user-attachments/assets/48d3f1d1-befd-40fe-9101-8f0c28db105c" />
 
 **Danh sách prompts:**  
 - Nhập mỗi prompt trên một dòng.
+<img width="370" height="144" alt="image" src="https://github.com/user-attachments/assets/b67fc0a8-38e9-43d5-afda-417b5da89cf1" />
 
 **Thư mục lưu:**  
 - Mặc định: thư mục `output` cạnh file `.exe`.  
 - Có thể đổi bằng nút 📂.
+<img width="370" height="77" alt="image" src="https://github.com/user-attachments/assets/ccf1c54e-5c69-4961-a87a-5084496736af" />
 
 ---
 
@@ -95,6 +106,7 @@ Giao diện gồm 3 bước chính:
 1. Nhấn **CHẠY MỚI (START NEW)**.  
 2. Tool sẽ tự gửi prompt, chờ tạo ảnh, và tải ảnh xuống.  
 3. Có thể xem tiến độ và ảnh preview ngay trong danh sách.
+<img width="387" height="54" alt="image" src="https://github.com/user-attachments/assets/575f5ebe-97b9-4882-b824-761a7ec82e0f" />
 
 ---
 
