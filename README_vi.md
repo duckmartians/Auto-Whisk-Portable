@@ -3,7 +3,7 @@
 
 Auto Whisk Generator là công cụ hỗ trợ tự động hóa toàn bộ quy trình tạo ảnh trên Whisk AI (Google Labs).  
 Thay vì phải thao tác thủ công từng prompt, công cụ cho phép bạn chạy liên tục và tạo ra hàng ngàn hình ảnh tự động.
-<img width="1402" height="936" alt="image" src="https://github.com/user-attachments/assets/be90419c-8857-4075-aaad-0fd398f9a115" />
+<img width="2166" height="1032" alt="image" src="https://github.com/user-attachments/assets/e8532ac4-40ba-4e6b-8fe5-52d823b3e009" />
 
 ---
 
@@ -41,6 +41,20 @@ Công cụ đã được đóng gói thành file `.exe`; không cần cài Pytho
 1. Tải file nén **Auto.Whisk.Generator.v24.11.2025.zip**.  
 2. Giải nén.  
 3. Mở **Auto Whisk Generator v24.11.2025.exe**.
+
+## ⚠️ LƯU Ý QUAN TRỌNG: NẾU BỊ WINDOWS DEFENDER CHẶN
+
+Nếu bạn mở tool và bị Windows báo lỗi virus (thường là Trojan:Win32/Wacatac...), xin đừng lo lắng. Đây là BÁO ĐỘNG GIẢ (False Positive).
+
+Tại sao lại bị báo lỗi?
+Tool được đóng gói bằng công cụ miễn phí PyInstaller. Vì tôi là lập trình viên cá nhân, không mua "Chứng chỉ số" (Digital Signature - loại giấy phép đắt tiền mà các hãng lớn dùng để chứng minh phần mềm an toàn) cho tool, nên Windows Defender sẽ mặc định chặn vì "thấy người lạ", không xác định được danh tính.
+
+Cam kết an toàn:
+1. Tool mã nguồn mở, chỉ thực hiện thao tác tự động trên trình duyệt, tuyệt đối không chứa mã độc.
+2. Các phần mềm diệt virus chuyên sâu (như Kaspersky, ESET...) đều xác nhận file này SẠCH.
+   
+Cách khắc phục:
+Để sử dụng, bạn vui lòng Thêm file tool vào danh sách loại trừ (Exclusions) hoặc tắt tạm thời Real-time protection của Windows Defender.
 
 ---
 
