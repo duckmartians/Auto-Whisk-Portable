@@ -1,5 +1,7 @@
 # 🎨 Auto Whisk Generator  [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest) [![Download Here](https://img.shields.io/badge/⬇_Download-Here-success?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
+
+[Updated at 13:06 on November 25, 2025](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
 
 Auto Whisk Generator automates the entire image-creation workflow on Whisk AI (Google Labs).  
 Instead of manually entering prompts one by one, the tool allows continuous, hands-free generation of thousands of images.
@@ -38,7 +40,7 @@ This JSON Cookie will be used for token extraction.
 
 The tool is packaged as a `.exe` file. No Python installation required.
 
-1. Download the compressed package **[Auto.Whisk.Generator-v25.11.2025.zip](https://github.com/duckmartians/Auto-Whisk-Portable/releases/download/v25.11.2025/AutoWhiskGenerator-v25.11.2025.zip)**.  
+1. Download the compressed package **[Auto.Whisk.Generator.v25.11.2025.zip](https://github.com/duckmartians/Auto-Whisk-Portable/releases/download/v25.11.2025/AutoWhiskGenerator.v25.11.2025.zip)**.  
 2. Extract it.  
 3. Run **Auto Whisk Generator v25.11.2025.exe**.
 
