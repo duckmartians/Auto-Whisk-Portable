@@ -1,5 +1,7 @@
 # 🎨 Auto Whisk Generator  [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](README_vi.md) [![English](https://img.shields.io/badge/English-blue)](README.md) 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest) [![Download Here](https://img.shields.io/badge/⬇_Download-Here-success?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-%F0%9F%92%BB-blue?style=for-the-badge)](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
+
+[Cập nhật lúc 13:06 ngày 25/11/2025](https://github.com/duckmartians/Auto-Whisk-Portable/releases/latest)
 
 Auto Whisk Generator là công cụ hỗ trợ tự động hóa toàn bộ quy trình tạo ảnh trên Whisk AI (Google Labs).  
 Thay vì phải thao tác thủ công từng prompt, công cụ cho phép bạn chạy liên tục và tạo ra hàng ngàn hình ảnh tự động.
@@ -39,7 +41,7 @@ Cookie JSON sẽ được dùng trong bước tiếp theo.
 
 Công cụ đã được đóng gói thành file `.exe`; không cần cài Python.
 
-1. Tải file nén **[Auto.Whisk.Generator-v25.11.2025.zip](https://github.com/duckmartians/Auto-Whisk-Portable/releases/download/v25.11.2025/AutoWhiskGenerator-v25.11.2025.zip)**.  
+1. Tải file nén **[Auto.Whisk.Generator.v25.11.2025.zip](https://github.com/duckmartians/Auto-Whisk-Portable/releases/download/v25.11.2025/Auto.Whisk.Generator.v25.11.2025.zip)**.  
 2. Giải nén.  
 3. Mở **Auto Whisk Generator v25.11.2025.exe**.
 
