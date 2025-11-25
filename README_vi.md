@@ -88,7 +88,9 @@ Giao diện gồm 3 bước chính:
 **Ảnh tham chiếu:**  
 - Chọn chủ thể, bối cảnh, phong cách.
 - Có thể dùng cùng lúc 3 ảnh chủ thể, 1 ảnh bối cảnh, 1 ảnh phong cách.
-<img width="954" height="524" alt="image" src="https://github.com/user-attachments/assets/c1c3564a-10c2-4205-b7c2-24474cfcfa96" />
+- Bấm upload để nhận prompt ảnh tham chiếu hoặc không cần.
+- Có thể điều chỉnh prompt của ảnh tham chiếu và lưu lại.
+<img width="1307" height="936" alt="image" src="https://github.com/user-attachments/assets/76b45832-57b4-4dc4-bd9a-58c6085dde36" />
 
 **Danh sách prompts:**  
 - Nhập mỗi prompt trên một dòng.
