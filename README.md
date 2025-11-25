@@ -85,10 +85,12 @@ The interface is divided into three clear steps.
 - Select the number of images per prompt (1–4).
 <img width="379" height="106" alt="image" src="https://github.com/user-attachments/assets/ce9e88c3-e9f6-46d6-8481-9527116181b1" />
 
-**Reference photos:**
+**Reference photo:**
 - Select subject, background, style.
 - Can use 3 subject photos, 1 background photo, 1 style photo at the same time.
-<img width="927" height="560" alt="image" src="https://github.com/user-attachments/assets/5381ced1-a4ef-4927-9715-547b2d2c568a" />
+- Click upload to receive reference photo prompt or not.
+- Can adjust the reference photo prompt and save.
+<img width="1306" height="935" alt="image" src="https://github.com/user-attachments/assets/f5370f3d-8dd3-4759-b337-49d6ae8c00f3" />
 
 **Prompt List:**  
 - Enter prompts line by line (one prompt per line).
