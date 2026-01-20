@@ -2,6 +2,6 @@
 
 Join the G-Labs Automation community here: [https://discord.gg/munMZEBMw5](https://discord.gg/munMZEBMw5)
 
-Hướng dẫn sử dụng: [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](https://github.com/duckmartians/G-Labs-Automation/README_vi.md)
+Hướng dẫn sử dụng: [![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-green)](https://github.com/duckmartians/G-Labs-Automation/blob/main/README_vi.md)
 
-User manual: [![English](https://img.shields.io/badge/English-blue)](https://github.com/duckmartians/G-Labs-Automation/README.md) 
+User manual: [![English](https://img.shields.io/badge/English-blue)](https://github.com/duckmartians/G-Labs-Automation/blob/main/README.md) 
